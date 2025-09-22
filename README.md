@@ -22,3 +22,6 @@ shop.yahoo.com
 sports.yahoo.com
 news.yahoo.com
 mail.yahoo.com
+
+
+I use this tutorial to create this tool:https://www.youtube.com/watch?v=s9w0KutMorE
